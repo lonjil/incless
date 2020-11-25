@@ -10,7 +10,7 @@
                 :pathname "src/interface/"
                 :serial t
                 :components ((:file "package")
-                             (:file "parameters")
+                             ;(:file "parameters")
                              (:file "conditions")
                              (:file "interface")))
                (:module "printer"
